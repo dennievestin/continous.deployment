@@ -1,0 +1,750 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fail",
+				"failCount"
+			],
+			[
+				"passed",
+				"passedCount"
+			],
+			[
+				"Deploy",
+				"DeploymentHistoryPath"
+			],
+			[
+				"machi",
+				"machine"
+			],
+			[
+				"Proje",
+				"ProjectName"
+			],
+			[
+				"Depl",
+				"DeploymentHistoryPath"
+			],
+			[
+				"string",
+				"stringNumbers"
+			],
+			[
+				"P",
+				"ProjectId"
+			],
+			[
+				"id",
+				"ProjectId"
+			],
+			[
+				"e",
+				"environment"
+			],
+			[
+				"nam",
+				"Name"
+			],
+			[
+				"loaded",
+				"loadedFile"
+			],
+			[
+				"Not",
+				"not"
+			],
+			[
+				"Name",
+				"ModuleName"
+			],
+			[
+				"load",
+				"load-on-start"
+			],
+			[
+				"Created",
+				"CreatedAction"
+			],
+			[
+				"Write-",
+				"Write-Host"
+			],
+			[
+				"Conne",
+				"ConnectionStatus"
+			],
+			[
+				"vpn",
+				"Creuna-Vpn"
+			],
+			[
+				"na",
+				"Name"
+			],
+			[
+				"gu",
+				"PowerGUI"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Start.csx",
+			"settings":
+			{
+				"buffer_size": 385,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Automation/07.Deploy.csx",
+			"settings":
+			{
+				"buffer_size": 1753,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Automation.Tests.Integration/Run.csx",
+			"settings":
+			{
+				"buffer_size": 445,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Automation.Tests.Integration/MachineIntegrationTests.csx",
+			"settings":
+			{
+				"buffer_size": 1236,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Automation.Tests.Integration/IntegrationTests.csx",
+			"settings":
+			{
+				"buffer_size": 1086,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Automation/Services/DeployService.csx",
+			"settings":
+			{
+				"buffer_size": 1909,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Automation.Tests.Integration/OctopusServiceTests.csx",
+			"settings":
+			{
+				"buffer_size": 1566,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/C# Compile & Run/CSharpSingleFileBuild.sublime-build",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"Control",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"package con",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta	",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: sc",
+				"Package Control: Install Package"
+			],
+			[
+				"power",
+				"Set Syntax: PowerShell"
+			],
+			[
+				"powershe",
+				"Set Syntax: PowerShell"
+			],
+			[
+				"powershell",
+				"Set Syntax: PowerShell"
+			],
+			[
+				"set syntax:pow",
+				"Set Syntax: PowerShell"
+			],
+			[
+				"help	",
+				"Set Syntax: Shell Script (Bash)"
+			]
+		],
+		"width": 408.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"test",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Projects/continous.deployment",
+		"/C/Projects/continous.deployment/Automation",
+		"/C/Projects/continous.deployment/Automation/Services"
+	],
+	"file_history":
+	[
+		"/C/Projects/temp/file.csx",
+		"/C/Projects/continous.deployment/tests.ps1",
+		"/C/Projects/continous.deployment/Automation/03.BuildBackend.csx",
+		"/C/Projects/continous.deployment/Automation.Tests.Unit/ProjectSettingsTests.csx",
+		"/C/Projects/continous.deployment/Automation/Config/SettingValues.csx",
+		"/C/Projects/continous.deployment/Automation.Tests.Unit/Run.csx",
+		"/C/Projects/SthlmStad/stockholm.se/Development/Stockholm.CircuitBreaker.Tests/CircuitBreakerStatusConverterTests.cs",
+		"/C/Projects/SthlmStad/stockholm.se/Development/Stockholm.CircuitBreaker.Tests/ExternalCircuitBreakerTests.cs",
+		"/C/Projects/SthlmStad/stockholm.se/Development/Stockholm.CircuitBreaker.Tests/SqlServerServiceTests.cs",
+		"/C/Users/dwestin/Desktop/ptj-insikt-databas.txt",
+		"//sto-lnxtest01/lnxadmin/locust-ptj.py",
+		"//sto-prtj01/e$/inetpub/webroot/ptj.creuna.se/Config/ConnectionStrings.config",
+		"//sto-lnxtest01/xhome/locust-ptj.py",
+		"//sto-prtj01/e$/inetpub/webroot/ptj.creuna.se/Config/System.Web.Authentication.Editors.config",
+		"/C/Projects/powershell/profiles/profile.ps1",
+		"//sto-prtj01/e$/inetpub/webroot/ptj.creuna.se/Web.config",
+		"//sto-prtj01/e$/inetpub/webroot/ptj.creuna.se/Config/System.Web.Authentication.config",
+		"//sto-prtj01/e$/inetpub/webroot/ptj.creuna.se/Config/System.Web.RoleManager.config",
+		"/C/Users/dwestin/Desktop/test.html",
+		"/C/Users/dwestin/.ssh/id_rsa.pub",
+		"/C/Users/dwestin/Desktop/debug",
+		"/C/Users/dwestin/Desktop/DataAccess.Users/Javascripts.ascx.cs",
+		"/C/Users/dwestin/Desktop/DataAccess.Users/UserProfile.cs",
+		"/C/Users/dwestin/Desktop/DataAccess.Users/IPAKUserProfileView.cs",
+		"/C/Users/dwestin/Desktop/DataAccess.Users/IPAKProfileProvider.cs",
+		"/C/Users/dwestin/Desktop/DataAccess.Users/IUserProfile.cs",
+		"/C/Users/dwestin/Desktop/DataAccess.Users/ProfileBaseWrapper.cs",
+		"/C/Projects/SthlmStad/sthlmstad-intranet/Development/SthlmStad.Intranet.Web/packages.config",
+		"/C/Projects/SthlmStad/sthlmstad-intranet/Development/packages/repositories.config",
+		"/C/Projects/powershell/profiles/load-modules.ps1",
+		"/C/Projects/roslyn/Src/Compilers/CSharp/csc/packages.config",
+		"/C/Projects/vnext-samples/samples/HelloMvc/project.json",
+		"/C/Projects/vnext-test/v-next-mvc/project.json",
+		"/C/Projects/vnext-test/project.json",
+		"/C/Projects/roslyn/Src/Tools/Source/OpenSourceDebug/OpenSourceDebug.csproj",
+		"/C/Projects/scriptcs-testing/BDDfy.html",
+		"/C/Projects/continous.deployment/Start.csx",
+		"/C/Projects/continous.deployment/.gitignore",
+		"/C/Projects/continous.deployment/packages.config",
+		"/C/Projects/continous.deployment.vs/continous.deployment.csproj",
+		"/C/Projects/continous.deployment/build.ps1",
+		"/C/Projects/continous.deployment.vs/build.ps1",
+		"/C/Projects/continous.deployment/RunTests.csx",
+		"/C/Projects/continous.deployment/Install.ps1",
+		"/C/Projects/continous.deployment/Automation.Tests.Integration/Run.csx",
+		"/C/Projects/continous.deployment/Install1.ps1",
+		"/C/Projects/continous.deployment/RunTests.ps1",
+		"/C/Projects/continous.deployment/BootstrapTests.ps1",
+		"/C/Projects/continous.deployment/Build.ps1",
+		"/C/Projects/continous.deployment/Automation.Powershell/XmlTransformationModule.ps1",
+		"/C/Projects/continous.deployment/Automation.Powershell/PostDeploy.ps1",
+		"/C/Projects/continous.deployment/Automation.Tests.Integration/IntegrationTests.csx",
+		"/C/Projects/continous.deployment/Automation.Tests.Integration/BDDfyCustom.js",
+		"/C/Projects/continous.deployment/Automation.Tests.Integration/BDDfy.html",
+		"/C/Projects/continous.deployment/Automation.Tests.Integration/BDDfyCustom.css",
+		"/C/Projects/continous.deployment/Automation/packages/TestStack.BDDfy.3.19.1/lib/NET40/BDDfy.html",
+		"/C/Projects/continous.deployment/Automation.Tests.Integration/BBDfyCustom.js",
+		"/C/Projects/continous.deployment/Automation.Tests.Integration/index.html",
+		"/C/Projects/continous.deployment/Automation.Tests.Integration/MachineIntegrationTests.csx",
+		"/C/Projects/continous.deployment/Automation.Tests.Integration/OctopusServiceTests.csx",
+		"/C/Projects/continous.deployment/Automation.Tests.Integration/Test.csx",
+		"/C/Projects/continous.deployment/Automation/Services/DeployService.csx",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Projects/continous.deployment/Automation.Tests.Integration/WindowsServicesTests.csx",
+		"/C/Projects/continous.deployment/Automation.Powershell/Deploy.ps1",
+		"/C/Projects/continous.deployment/build.bat",
+		"/C/Projects/continous.deployment/Automation/Tools/PowershellScripts/DeployScripts/PreDeploy.ps1",
+		"/C/Projects/continous.deployment/Automation.Powershell/VerifyDeployment.ps1",
+		"/C/Projects/continous.deployment/Automation/Tools/PowershellScripts/DeployScripts/Deploy.ps1",
+		"/C/Projects/continous.deployment/Automation.Powershell/AddVersionFile.ps1",
+		"/C/Projects/continous.deployment/Automation.Tests.Integration/CleanDirectory.ps1",
+		"/C/Projects/continous.deployment/Automation.Tests.Integration/StartIIS.ps1",
+		"/C/Projects/continous.deployment/Automation.Powershell/StopIIS.ps1",
+		"/C/Projects/continous.deployment/Automation.Powershell/TryStartOctopusTentacleService.ps1",
+		"/C/Projects/continous.deployment/Automation.Powershell/TryStartOctopusDeployService.ps1",
+		"/C/Projects/continous.deployment/RunUnitTests.csx",
+		"/C/Projects/continous.deployment/RunIntegrationTests.csx",
+		"/C/Projects/continous.deployment/Automation.Integration.Tests/MachineIntegrationTests.csx",
+		"/C/Projects/continous.deployment/Automation.Integration.Tests/MachineIntegrationTests",
+		"/C/Projects/continous.deployment/Automation.Integration.Tests/IntegrationTests.csx",
+		"/C/Projects/continous.deployment/Automation.Unit.Tests/ProjectSettingsTests.csx",
+		"/C/Projects/continous.deployment/Automation.Integration.Tests/Deploy.OctopusServiceTests.csx",
+		"/C/Projects/continous.deployment/Automation.Unit.Tests/Deploy.UnitTests.csx",
+		"/C/Projects/continous.deployment/RunAllUnitTests.csx",
+		"/C/Projects/continous.deployment/Automation.Integration.Tests/Deploy.IntegrationTests.csx",
+		"/C/Projects/continous.deployment/RunAllTests.csx",
+		"/C/Projects/continous.deployment/Automation/packages.config",
+		"/C/Projects/continous.deployment/Automation/Tests/ProjectSettingsTests.csx",
+		"/C/Projects/continous.deployment/Automation/Tests/RunAllTests.csx",
+		"/C/Projects/continous.deployment/Automation/ProjectSettingsTests.csx",
+		"/C/Projects/continous.deployment/Automation/RunAllTests.csx",
+		"/C/Projects/continous.deployment/Automation/DeploymentHistory/Local/BDDfy.html",
+		"/C/Projects/continous.deployment/Automation/Config/SettingKeys.csx",
+		"/C/Projects/continous.deployment/project.json",
+		"/C/Projects/SthlmStad/medeltidsmuseet.stockholm.se/Development/SthlmStad.Medeltidsmuseet.Web/Properties/AssemblyInfo.cs",
+		"/C/Users/dwestin/Desktop/addressService.log.txt",
+		"/C/Projects/scriptcs-tdd/tests.csx",
+		"/C/Projects/scriptcs-tdd/first.csx",
+		"/C/Projects/SthlmStad/medeltidsmuseet.deploy/OctopusServices.ps1",
+		"/C/Projects/SthlmStad/medeltidsmuseet.stockholm.se/Development/SthlmStad.Medeltidsmuseet.Web/SthlmStad.Medeltidsmuseet.Web.nuspec",
+		"/C/Projects/SthlmStad/medeltidsmuseet.stockholm.se/Development/SthlmStad.AreaWebs.Shared/SharedAssemblyInfo.cs",
+		"/C/Projects/SthlmStad/sthlmstad-intranet/Development/SthlmStad.Intranet.Web/Config/ConnectionStrings.Dev.config",
+		"/C/Projects/SthlmStad/sthlmstad-intranet/Development/SthlmStad.Intranet.Tests.Unit/Cms/EPiSrvr/PageTypeBuilder/Validation/MaxAllowedLinksAttributeTests.cs",
+		"/C/Projects/SthlmStad/sthlmstad-intranet/Development/SthlmStad.Intranet.Tests.Unit/Cms/EPiSrvr/PageTypeBuilder/Validation/ValidationModuleTests.cs",
+		"/C/Projects/scriptcs-tdd/tests-bdd.csx",
+		"/C/Projects/scriptcs-tdd/install/init.csx",
+		"/C/Users/dwestin/Downloads/ScriptCs.BDDfy-master/ScriptCs.BDDfy-master/Examples/wikitest.csx",
+		"/C/Users/dwestin/Downloads/ScriptCs.BDDfy-master/ScriptCs.BDDfy-master/Examples/start.csx",
+		"/C/Users/dwestin/Downloads/chocolateytemplates-master/chocolateytemplates-master/_templates/chocolatey/tools/chocolateyInstall.ps1",
+		"/C/Projects/scriptcs-tdd/packages.config",
+		"/C/Projects/scriptcs-tdd/first.scx",
+		"/C/Projects/scriptcs-tdd/tests-bdd.scx",
+		"/C/Projects/scriptcs-tdd/test.scx",
+		"/C/Projects/SthlmStad/sthlmstad-intranet/Development/SthlmStad.Intranet.Web/Web/UI/Gruntfile.js",
+		"/C/Projects/SthlmStad/medeltidsmuseet.stockholm.se/Development/SthlmStad.Medeltidsmuseet.Web/ui/Gruntfile.js",
+		"/C/Projects/continous.deployment/DeploymentHistory/Local/Results.xml",
+		"/C/Program Files/Logitech/SetPointP/externalapps.xml",
+		"/C/Users/dwestin/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Projects/SthlmStad/stadsarkivet.stockholm.se/Development/SthlmStad.Stadsarkivet.Web/SthlmStad.Stadsarkivet.Web.nuspec",
+		"/C/Projects/SthlmStad/stadsarkivet.stockholm.se/Deploy/SendTeamCityVersionMessages.ps1",
+		"/C/Projects/SthlmStad/stadsarkivet.stockholm.se/Deploy/PatchAssemblyInfoVersions.ps1",
+		"/C/Projects/SthlmStad/stadsarkivet.stockholm.se/Deploy/CopyReleaseFiles.ps1",
+		"/C/Projects/SthlmStad/stadsarkivet.stockholm.se/Development/SthlmStad.Stadsarkivet.Web/Properties/AssemblyInfo.cs",
+		"//sto-stos47/e$/OctopusReleases/stos-medeltidsmuseet-stage.creuna.se/Release/1.0.3/content/Config/ConnectionStrings.config",
+		"/C/Projects/SthlmStad/medeltidsmuseet.deploy/Version.ps1",
+		"//sto-stos42/e$/inetpub/stos-medeltidsmuseet-test.creuna.se/version.htm",
+		"/C/Projects/SthlmStad/medeltidsmuseet.stockholm.se/Deploy/CopyReleaseFiles.ps1",
+		"/C/Projects/SthlmStad/medeltidsmuseet.deploy/ProductionPackage.ps1"
+	],
+	"find":
+	{
+		"height": 353.0
+	},
+	"find_in_files":
+	{
+		"height": 116.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\nfrom locust import HttpLocust, TaskSet, task\n\nclass WebsiteTests(TaskSet):\n	@task()\n	def on_start(self):\n		self.login()\n\n	def login(self):\n		self.client.post(\"/Util/Login.aspx?ReturnUrl=/\", {\"ctl00_FullRegion_LoginControl_UserName\": \"dwestin\", \"ctl00_FullRegion_LoginControl_Password\": \"Chvrch#99\"})\n\n	@task()\n	def index(self):\n		response = self.client.get(\"/Aktieagare/\")\n		print \"Aktieagare response:\", response.content\n\nclass WebsiteUser(HttpLocust):\n	task_set = WebsiteTests\n	host = \"http://sto-prtj01.sto-pub.int\"\n	min_wait = 1000\n	max_wait = 3000\n",
+			"bind",
+			"users",
+			"csc",
+			"version",
+			"kvm",
+			".core",
+			"$PSScriptRoot",
+			".story",
+			"expandAll",
+			"expandCollapse",
+			"BDDfyTitle",
+			"content",
+			"BDDfyTitle",
+			"config",
+			";\n",
+			"parent",
+			"GetDirectoryFromParent",
+			"DeploymentHistoryPath",
+			"SolutionFile",
+			"projectFile",
+			"config",
+			")]\n",
+			"creuna",
+			"build_dir_name",
+			"artifa",
+			"task",
+			"exec",
+			"nuget pack",
+			"project_to_nuget_folder_map",
+			"nuget",
+			"produ",
+			"path",
+			"targetDirectory",
+			"parent",
+			"remove",
+			"proje",
+			"green",
+			"prompt",
+			"try",
+			"sql",
+			".Tests",
+			"menu",
+			"grunt",
+			"border",
+			"indent",
+			"space",
+			"Development/SthlmStad.Intranet.Web/Properties/PublishProfiles/Test.pubxml.user",
+			"pubxml",
+			"Get-MyModule",
+			"filepath",
+			"connectionstrings",
+			"PsGet",
+			"Project",
+			"open",
+			"phonecatApp",
+			"});"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Start.csx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 385,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								53,
+								53
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/scriptcs/ScriptCs.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Automation/07.Deploy.csx",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1753,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/scriptcs/ScriptCs.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Automation.Tests.Integration/Run.csx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 445,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								443,
+								443
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/scriptcs/ScriptCs.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Automation.Tests.Integration/MachineIntegrationTests.csx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1236,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								689,
+								689
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/scriptcs/ScriptCs.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 285.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Automation.Tests.Integration/IntegrationTests.csx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1086,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/scriptcs/ScriptCs.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Automation/Services/DeployService.csx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1909,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								317,
+								317
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/scriptcs/ScriptCs.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "Automation.Tests.Integration/OctopusServiceTests.csx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1566,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/scriptcs/ScriptCs.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 192.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "Automation.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 266.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

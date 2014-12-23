@@ -1,0 +1,6 @@
+Automation/bin/*
+Automation.Tests.Unit/bin/*
+Automation.Tests.Integration/bin/*
+Automation.Tests.Integration/BDDfy.html
+Automation.Tests.Unit/BDDfy.html
+packages/*

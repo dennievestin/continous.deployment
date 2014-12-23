@@ -1,0 +1,1 @@
+﻿. $PSScriptRoot\Deploy.ps1
