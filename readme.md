@@ -1,6 +1,8 @@
-# How-to
+# Work in progress... 
 
-## Dependencies
+**The idea is to separate project specific configurations from TeamCity and in the best case also break the TeamCity specific dependencies down to a build server that can run powershell scripts in the build steps.**
+
+### Dependencies
 
 * Powershell version 3
 * ScriptCs
@@ -12,13 +14,13 @@ For integration tests to be able to run
 
  Documentation for [ScriptCs](http://scriptcs.net) and the [wiki](https://github.com/scriptcs/scriptcs/wiki) pages.
 
-## First time installation
+### First time installation
 
 ```
 PS>scriptcs .\Start.csx `-- -tasks:Install
 ```
 
-## TeamCity build step
+### TeamCity build step
 
 * Add new build step and select the powershell option
 * Set run path to where you have these scripts
@@ -40,7 +42,7 @@ The level of logging can be set explicitly
 PS> scriptcs .\FileToRun.csx -loglevel Error `-- -tasks:Deploy
 ```
 
-## Run unit tests
+### Run unit tests
 
 *Important: the debug flag must be set when running unit/integration tests:*
 
