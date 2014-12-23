@@ -1,32 +1,34 @@
-# Work in progress... 
-
-**The idea is to separate project specific configurations from TeamCity and in the best case also break the TeamCity specific dependencies down to a build server that can run powershell scripts in the build steps.**
+**Resting peacefully... the idea was to separate project specific configurations from TeamCity in order to fast set up new projects with even more generic build-templates. Also to be able to run integration tests of some parts of the continous deployment process. As for now I'm using parts of it only.**
 
 ### Dependencies
 
 * Powershell version 3
 * ScriptCs
 * ScriptCs.Shovel
-
-For integration tests to be able to run
-
 * ScriptCs.NUnit
 
- Documentation for [ScriptCs](http://scriptcs.net) and the [wiki](https://github.com/scriptcs/scriptcs/wiki) pages.
+ Documentation of [ScriptCs](http://scriptcs.net) and the [wiki](https://github.com/scriptcs/scriptcs/wiki) pages.
 
-### First time installation
+### Install dependent modules
 
 ```
 PS>scriptcs .\Start.csx `-- -tasks:Install
 ```
 
-### TeamCity build step
+### Run tasks from command line
+
+```
+PS> scriptcs .\FileToRun.csx `-- -tasks:Deploy
+```
+
+### To run within  TeamCity build steps
 
 * Add new build step and select the powershell option
 * Set run path to where you have these scripts
 * Scriptcs -FileToRun.csx `-- -tasks:Build
 
-Examples:  
+### Examples  
+
 *Important: The ` is the powershell escape sign and must be included as shown below.*
 
 Single task:  
