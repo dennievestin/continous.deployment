@@ -6,7 +6,7 @@ using TestStack.BDDfy.Core;
         AsA = "As a developer",
         IWant = "I want the target machine 'ProjectName' connectable",
         SoThat = "So that I can deploy to that specific machine")]
-public class VerksamhetswebbarnaIntegrationTests {
+public class ProjectNameIntegrationTests {
     private string specificMachine;
     private OctopusService service;
 
